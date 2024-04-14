@@ -11,12 +11,18 @@ FiTracker is a modern workout tracking tool to help users save and organize thei
 
 After registering and logging in on the website, users are directed to a dashboard where they can immediately begin filling in workout forms to add to their list of workouts completed. This form consists of four entries: the title, number of sets, number of reps, and load. Each of these fields are required and if left empty the user will be presented with an error. After filling in each entry, simply hit the submit button and the workout will be added!
 
-![Dashboard](https://cdn.discordapp.com/attachments/1075512442437771355/1076006605008683078/Landing.png)
+<p float="left">
+   <img src="/client/public/Dashboard.png" />
+</p>
+
 
 For each of the added workouts, there is a **delete** and **edit** button. When clicked, the delete button removes the workout from the list and discards it from the database. The edit button is currently incomplete but when finished it will allow users to edit the workout information (title, sets, reps, load).
 
-![Mobile](https://cdn.discordapp.com/attachments/1075512442437771355/1076006605361008691/Mobile.png)
-![MobileLogin](https://cdn.discordapp.com/attachments/1075512442437771355/1076006605734297711/Mobile_Login.png)
+<p float="left">
+   <img src="/client/public/Mobile.png" />
+   <img src="/client/public/Mobile_Login.png" />
+</p>
+
 
 ## How It Works
 
