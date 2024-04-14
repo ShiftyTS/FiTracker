@@ -16,7 +16,7 @@ After registering and logging in on the website, users are directed to a dashboa
 </p>
 
 
-For each of the added workouts, there is a **delete** and **edit** button. When clicked, the delete button removes the workout from the list and discards it from the database. The edit button is currently incomplete but when finished it will allow users to edit the workout information (title, sets, reps, load).
+For each of the added workouts, there is a **delete** and **edit** button. When clicked, the delete button removes the workout from the list and discards it from the database, and the edit button allow users to edit the workout information (title, sets, reps, load).
 
 <p float="left">
    <img src="/client/public/Mobile.png" />
