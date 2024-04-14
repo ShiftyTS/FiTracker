@@ -5,8 +5,8 @@ FiTracker is a modern workout tracking tool to help users save and organize thei
 ## How To Use
 
 <p float="left">
-   <img src="/client/public/Register.png" width="400" height="866" />
-   <img src="/client/public/Login" width="400" height="866" />
+   <img src="/client/public/Register.png" />
+   <img src="/client/public/Login.png" />
 </p>
 
 After registering and logging in on the website, users are directed to a dashboard where they can immediately begin filling in workout forms to add to their list of workouts completed. This form consists of four entries: the title, number of sets, number of reps, and load. Each of these fields are required and if left empty the user will be presented with an error. After filling in each entry, simply hit the submit button and the workout will be added!
